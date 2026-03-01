@@ -6,6 +6,11 @@ Project Overview
 This project uses a Logistic Regression model to predict whether a person has a sleep disorder based on health and lifestyle data.
 The goal is to analyse patterns in sleep-related factors and build a classification model to assist in early detection.
 
+Problem Statement 
+Sleep disorders are increasingly common due to lifestyle, stress, and health-related factors. Early identification can help improve overall health and quality of life.
+
+The goal of this project is to build a machine learning model that predicts whether an individual has a sleep disorder (1) or does not have a sleep disorder (0) based on health and lifestyle features such as sleep duration, physical activity level, stress level, BMI, and heart rate.
+
 Technologies Used
 - Python
 - Pandas
