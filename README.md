@@ -23,6 +23,7 @@ Logistic Regression is:
 Additionally, the model provides coefficients that help interpret which factors increase or decrease the likelihood of a sleep disorder.
 
 Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -30,6 +31,7 @@ Technologies Used
 - Scikit-learn
 
 Machine Learning Approach
+
 - Data cleaning and preprocessing
 - Feature selection
 - Train-test split
@@ -40,6 +42,7 @@ Machine Learning Approach
   - Classification report
 
 Results
+
 -The model achieved an accuracy of 94.67% on the test dataset.
 -Feature importance analysis showed that certain lifestyle and health factors significantly influence sleep disorder prediction.
 - Individuals with higher stress levels showed a higher probability of having a sleep disorder.
