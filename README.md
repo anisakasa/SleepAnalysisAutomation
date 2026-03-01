@@ -40,6 +40,17 @@ Machine Learning Approach
   - Classification report
 
 Results
-The model achieved an accuracy of 94.67% on the test dataset.
-Feature importance analysis showed that certain lifestyle and health factors significantly influence sleep disorder prediction.
+-The model achieved an accuracy of 94.67% on the test dataset.
+-Feature importance analysis showed that certain lifestyle and health factors significantly influence sleep disorder prediction.
+- Individuals with higher stress levels showed a higher probability of having a sleep disorder.
+- Lower sleep duration was associated with increased likelihood of sleep disorders.
+- Physical activity appeared to reduce the probability of sleep-related issues.
+These results suggest that lifestyle factors play a significant role in sleep health.
+
+Interpretation of Coefficients 
+
+In Logistic Regression, each coefficient represents how a feature affects the log-odds of the target outcome. 
+
+According to this model, higher quality of sleep and longer sleep duration have strong negative coefficients, meaning they significantly reduce the probability of having a sleep disorder. In contrast, age has a positive coefficient, indicating that the likelihood of a sleep disorder increases slightly as age increases.
+
 
