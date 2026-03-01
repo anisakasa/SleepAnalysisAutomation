@@ -43,8 +43,8 @@ Machine Learning Approach
 
 Results
 
--The model achieved an accuracy of 94.67% on the test dataset.
--Feature importance analysis showed that certain lifestyle and health factors significantly influence sleep disorder prediction.
+- The model achieved an accuracy of 94.67% on the test dataset.
+- Feature importance analysis showed that certain lifestyle and health factors significantly influence sleep disorder prediction.
 - Individuals with higher stress levels showed a higher probability of having a sleep disorder.
 - Lower sleep duration was associated with increased likelihood of sleep disorders.
 - Physical activity appeared to reduce the probability of sleep-related issues.
