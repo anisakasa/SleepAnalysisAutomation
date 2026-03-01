@@ -13,3 +13,17 @@ Technologies Used
 - Matplotlib
 - Scikit-learn
 
+Machine Learning Approach
+- Data cleaning and preprocessing
+- Feature selection
+- Train-test split
+- Logistic Regression model
+- Model evaluation using:
+  - Accuracy score
+  - Confusion matrix
+  - Classification report
+
+Results
+The model achieved an accuracy of 94.67% on the test dataset.
+Feature importance analysis showed that certain lifestyle and health factors significantly influence sleep disorder prediction.
+
